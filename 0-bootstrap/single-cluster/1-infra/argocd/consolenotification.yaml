@@ -24,7 +24,6 @@ spec:
         ocp-console-notification:
           ## The name of the ConsoleNotification resource in the cluster
           name: "banner-env"
-
           ## The background color that should be used for the banner
           backgroundColor: red
           ## The color of the text that will appear in the banner
