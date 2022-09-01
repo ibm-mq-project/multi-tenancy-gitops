@@ -20,7 +20,7 @@ spec:
   source:
     path: consolenotification
     helm:
-      values: |
+      values: 
         ocp-console-notification:
           ## The name of the ConsoleNotification resource in the cluster
           name: "banner-env"
