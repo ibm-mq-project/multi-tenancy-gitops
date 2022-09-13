@@ -29,6 +29,6 @@ spec:
           ## The color of the text that will appear in the banner
           color: "'#fff'"
           ## The location of the banner. Options: BannerTop, BannerBottom, BannerTopBottom
-          location: BannerTop
+          location: "BannerTop"
           ## The text that should be displayed in the banner. This value is required for the banner to be created
           text: "Production Reference Guide"
